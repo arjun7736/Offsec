@@ -1,0 +1,407 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+.offseclogo {
+    height: 62px;
+    width: 175px;
+    border-radius: 0px;
+    margin-top: 14px;
+    margin-left: 16px;
+}
+
+body {
+    background-color: #1A1225;
+}
+
+.ul {
+    list-style: none;
+    display: flex;
+    margin-top: 38px;
+    margin-left: 150px;
+}
+
+#li:hover {
+    color: #6619D0;
+    cursor: pointer;
+}
+
+.li {
+    color: white;
+    margin-left: 35px;
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#button1:hover {
+    background-color: slateblue;
+    cursor: pointer;
+}
+
+#button2:hover {
+    cursor: pointer;
+    background-color: #00BFCB;
+    color: black;
+}
+
+.regbutton {
+    background-color: #6619D0;
+    color: white;
+    border-radius: 25px;
+    width: 92px;
+    height: 40px;
+    border: none;
+    margin-left: 150px;
+    margin-top: 28px;
+    font-weight: bold;
+}
+
+.signbutton {
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 28px;
+    width: 80px;
+    height: 40px;
+    border-radius: 25px;
+    border: 2px solid #00BFCB;
+    background-color: transparent;
+    color: white;
+}
+
+.firstbody {
+    position: absolute;
+    width: 1345px;
+    height: 2680px;
+    margin-top: 60px;
+}
+
+.head1 {
+    margin-left: 480px;
+    font-size: 48px;
+    color: white;
+}
+
+.head2 {
+    font-size: 48px;
+    color: white;
+    margin-left: 470px;
+}
+
+.h31 {
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 350px;
+    margin-top: 25px;
+}
+
+.h32 {
+    color: white;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 360px;
+
+}
+
+.h33 {
+    color: white;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 450px;
+
+}
+
+.h34 {
+    color: white;
+    margin-top: 40px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-left: 520px;
+}
+
+.box3 {
+
+    height: 400px;
+    display: flex;
+    margin-left: 240px;
+}
+
+.indibox {
+
+    margin-top: 45px;
+    height: 450px;
+    width: 280px;
+    background: rgb(1, 140, 149);
+    background: linear-gradient(180deg, rgba(1, 140, 149, 1) 0%, rgba(26, 19, 38, 1) 100%);
+    text-align: center;
+    color: white;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+
+.teambox {
+    margin-left: 25px;
+    margin-top: 45px;
+    height: 450px;
+    width: 280px;
+    background: rgb(150, 92, 230);
+    background: linear-gradient(180deg, rgba(150, 92, 230, 1) 0%, rgba(27, 19, 38, 1) 100%);
+    text-align: center;
+    color: white;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+
+.orgbox {
+    margin-left: 25px;
+    margin-top: 45px;
+    height: 450px;
+    width: 280px;
+    background: rgb(74, 19, 149);
+    background: linear-gradient(180deg, rgba(74, 19, 149, 1) 0%, rgba(27, 18, 38, 1) 100%);
+    text-align: center;
+    color: white;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+}
+
+.toptext {
+    margin-top: 25px;
+    font-weight: bolder;
+    margin-bottom: 25px;
+}
+
+.smalltext {
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+
+.button1 {
+    width: 130px;
+    height: 40px;
+    border-radius: 25px;
+    border: .5px solid white;
+    background-color: transparent;
+    color: white;
+    margin-top: 25px;
+}
+
+.button2 {
+    width: 130px;
+    height: 40px;
+    border-radius: 25px;
+    border: .5px solid white;
+    background-color: transparent;
+    color: white;
+    margin-top: 50px;
+}
+
+.button1:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.button2:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.already {
+    color: white;
+    margin-top: 200px;
+    margin-left: 400px;
+    font-weight: bolder;
+}
+
+.sec {
+    color: white;
+    margin-left: 480px;
+    font-weight: bolder;
+}
+
+.secsmall {
+    color: white;
+    margin-left: 475px;
+    font-weight: bolder;
+    margin-top: 45px;
+}
+
+.logbut {
+    color: white;
+    background-color: transparent;
+    border-radius: 35px;
+    font-weight: bolder;
+    width: 71px;
+    height: 40px;
+    border: 2px solid #00BFCB;
+    margin-left: 600px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+}
+
+.logbut:hover {
+    color: black;
+    background-color: #00BFCB;
+}
+
+.offsecbox {
+    width: 960px;
+    height: 690px;
+    background-color: #261E30;
+    margin-left: 180px;
+}
+
+.off {
+    color: white;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 70px;
+}
+
+.indiv {
+    width: 368px;
+    height: 192px;
+    margin-left: 50px;
+    color: white;
+}
+
+.indiv2 {
+    width: 368px;
+    height: 192px;
+    margin-left: 100px;
+    color: white;
+}
+
+.inbigtext {
+    margin-bottom: 15px;
+    margin-top: 10px;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.inbigtext2 {
+    margin-bottom: 15px;
+    margin-top: 5px;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.indiv3 {
+    width: 368px;
+    height: 298px;
+    margin-left: 100px;
+    color: white;
+    margin-top: 50px;
+}
+
+hr {
+    background-image: linear-gradient(90deg, rgba(101, 29, 208, 1) 0%, rgba(2, 191, 203, 1) 100%);
+    border: 0;
+    height: 2px;
+}
+
+.offfoot {
+    margin-top: 130px;
+    color: white;
+    margin-left: 100px;
+}
+
+.contactbtn {
+    background-color: #6619D0;
+    width: 110px;
+    height: 40px;
+    border-radius: 25px;
+    font-weight: bolder;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin-top: 23px;
+}
+
+.contactbtn:hover {
+
+    opacity: 10%;
+    color: white;
+}
+
+.company {
+    margin-top: 150px;
+    margin-left: 200px;
+}
+
+.fothd {
+    color: white;
+    margin-top: 150px;
+    margin-left: 60px;
+}
+
+.txtbox {
+    margin-top: 10px;
+    height: 40px;
+    width: 300px;
+    margin-left: 60px;
+}
+
+.sbmtbtn {
+    color: white;
+    cursor: pointer;
+    border-radius: 35px;
+    border:2px solid #00BFCB;
+    background-color: transparent;
+    width: 82px;
+    height: 40px;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+.sbmtbtn:hover {
+    background-color: #00BFCB;
+    color: black;
+}
+
+.ul1 {
+    list-style: none;
+    font-size: 18px;
+    font-weight: bolder;
+    color: white;
+}
+
+.li1 {
+    margin-top: 10px;
+    color: white;
+    font-size: 16px;
+}
+
+.li1:hover {
+    color: #6619D0;
+    cursor: pointer;
+}
+
+.p1 {
+    margin-top: 0px;
+    color: white;
+    margin-left: 350px;
+}
+
+#p1:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+.pst {
+    margin-left: -250px;
+    color: white;
+}
+.social{
+    margin-left: 150px;
+    margin-top: 28px;
+}
